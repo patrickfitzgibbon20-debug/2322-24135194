@@ -1,0 +1,27 @@
+('127.0.0.1', 63252) --- Sat, 18 Apr 2026 13:00:49 GMT --- 'GET /index.html' --- 200 OK 
+('127.0.0.1', 63252) --- Sat, 18 Apr 2026 13:00:49 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 61453) --- Sat, 18 Apr 2026 13:03:30 GMT --- 'GET /index.html' --- 200 OK 
+('127.0.0.1', 55887) --- Sat, 18 Apr 2026 13:04:57 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 56768) --- Sat, 18 Apr 2026 13:04:57 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 55210) --- Sat, 18 Apr 2026 13:08:20 GMT --- 'HEAD /notes.txt' --- 200 OK 
+('127.0.0.1', 55887) --- Sat, 18 Apr 2026 13:08:57 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 51064) --- Sat, 18 Apr 2026 13:08:57 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 55887) --- Sat, 18 Apr 2026 13:09:02 GMT --- 'GET /egypt.gif' --- 304 File Not Modified 
+('127.0.0.1', 55887) --- Sat, 18 Apr 2026 13:09:02 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 59767) --- Sat, 18 Apr 2026 13:09:44 GMT --- 'GET /THISFILEDOESNOTEXIST.png' --- 404 File Not Found 
+('127.0.0.1', 61896) --- Sat, 18 Apr 2026 13:09:44 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 49330) --- Sat, 18 Apr 2026 13:10:33 GMT --- 'GET /../serverlistener.py' --- 403 Forbidden 
+('127.0.0.1', 55127) --- Sat, 18 Apr 2026 13:11:34 GMT --- 'POST /index.html' --- 400 Bad Request 
+('127.0.0.1', 59781) --- Sat, 18 Apr 2026 13:14:01 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 51615) --- Sat, 18 Apr 2026 13:14:01 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 59781) --- Sat, 18 Apr 2026 13:14:02 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 55971) --- Sat, 18 Apr 2026 13:14:02 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 50381) --- Sat, 18 Apr 2026 13:14:02 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 55971) --- Sat, 18 Apr 2026 13:14:02 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 64927) --- Sat, 18 Apr 2026 13:14:02 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 51211) --- Sat, 18 Apr 2026 13:16:26 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 62044) --- Sat, 18 Apr 2026 13:16:27 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 55196) --- Sat, 18 Apr 2026 13:16:27 GMT --- 'GET /egypt.gif' --- 200 OK 
+('127.0.0.1', 51211) --- Sat, 18 Apr 2026 13:16:31 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 50562) --- Sat, 18 Apr 2026 13:16:31 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
+('127.0.0.1', 62044) --- Sat, 18 Apr 2026 13:16:32 GMT --- 'GET /.well-known/appspecific/com.chrome.devtools.json' --- 404 File Not Found 
