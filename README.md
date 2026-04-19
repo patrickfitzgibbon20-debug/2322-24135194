@@ -25,13 +25,13 @@ To confirm that Python is installed correctly, enter `python --version` in a com
 
 ## Instructions
 
-1. Clone entire repository and extract into a freely accessible directory
+1. **Clone entire repository and extract** into a freely accessible directory
 
-2. Upload all test files (image, text) into the `/public/` folder. There are 3 files already installed here for convenience, `egypt.gif` , `emoji.png` and `index.html` . 
+2. **Upload all test files** (image, text) into the `/public/` folder. There are 3 files already installed here for convenience, `egypt.gif` , `emoji.png` and `index.html` . 
 
-3. Open the command terminal/PowerShell and navigate to the directory where this project is stored. This can be done through the command `cd C:\path\to\repository\2322-24135194`
+3. Open the command terminal/PowerShell and **navigate to the directory** where this project is stored. This can be done through the command `cd C:\path\to\repository\2322-24135194`
 
-4. Run the server through the terminal command `python serverlistener.py` . If running correctly, the terminal should print `'connection pending...'`
+4. **Run the server** through the terminal command `python serverlistener.py` . If running correctly, the terminal should print `'connection pending...'`
 
 After this point, the socket will be listening on address 127.0.0.1:9999 . You may test the functionality of the web server by using Google Chrome, curl, NatCat, or any other HTTP client. All transactions are logged in the included `logs.txt` file of the repository. 
 
